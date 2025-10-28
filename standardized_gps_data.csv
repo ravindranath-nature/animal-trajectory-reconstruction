@@ -1,0 +1,2 @@
+timestamp,lon,lat,elevation,Slope,Aspect,terrainRug,SRTMdem,temperatur,wc2.1_30s_,wc2.1_30_1,wc2.1_30_2,wc2.1_30_3,wc2.1_30_4,wc2.1_30_5,wc2.1_30_6,Distance_m,speed,bearing,velocity_x,velocity_y,hour,day_of_week,day_of_year,month,is_day,is_weekend,hour_sin,hour_cos,day_sin,day_cos
+2023-05-17 19:58:00,100.32983,22.18316,1063.0,89.98883,254.74489,4.0,1062.0,28.62,20.21667,23.58333,15.06667,1578.0,316.0,16.0,84.45752,0.0,0.0,0.0,0.0,0.0,19,2,137,5,0,0,-0.9659258262890684,0.2588190451025203,0.705583610107178,-0.7086266782644596
